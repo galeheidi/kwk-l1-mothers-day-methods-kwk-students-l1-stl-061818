@@ -3,9 +3,9 @@
 def mothers_day(time_of_day,name)
  puts "Happy #{time_of_day} #{name}!" 
 end 
-mothers_day("mothers_day","mom")
+mothers_day("mothers day","mom")
 
 def mothers_day(time_of_day,name)
   puts "Happy #{time_of_day} #{name}!"
 end 
-mothers_day("mothers_day","Beyonce")
+mothers_day("mothers day","Beyonce")
